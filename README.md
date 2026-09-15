@@ -192,8 +192,12 @@ V.0.0.8	Exercício 08	Lista com três crachás
 
 ---
 
-###Tecnologias utilizadas
+### Tecnologias utilizadas
+
 Flutter
+
 Dart
+
 Git
+
 GitHub
