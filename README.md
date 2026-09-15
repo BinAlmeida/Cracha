@@ -40,7 +40,7 @@ Status: Matriculado / Ativo
 
 O novo campo manteve o mesmo padrão visual dos demais dados do crachá, utilizando o ícone na cor verde.
 
-###Resultado
+### Resultado
 Além dos dados pessoais e acadêmicos, o crachá passou a informar que o estudante está matriculado e ativo.
 
 ---
