@@ -17,7 +17,6 @@ O crachá era montado diretamente no `main.dart`, sem um widget separado para re
 ### O que mudou
 
 O `Container` principal passou a utilizar:
-```dart
 color: Colors.green.shade50,
 
 Os ícones que anteriormente utilizavam a cor definida na versão base passaram a utilizar:
